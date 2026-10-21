@@ -1,26 +1,13 @@
-# Dashboard de estadísticas — Checkpoint 4 de Hybridge
+# Dashboard Hybridge
 
-Proyecto de maquetación web hecho con **HTML y Tailwind CSS**. Presenta un dashboard con tarjetas de estadísticas y dos gráficas creadas con Chart.js.
+Este es mi dashboard del Checkpoint 4. Lo hice con HTML y Tailwind, y agregué dos gráficas con Chart.js.
 
-## Contenido
-
-- Cuatro tarjetas: usuarios totales, ingresos mensuales, visitas al sitio y tasa de conversión.
-- Gráfica de línea con el crecimiento mensual de usuarios en 2023 y 2024.
-- Gráfica de barras con los ingresos mensuales de 2024.
-- Menú lateral y encabezado con el perfil del administrador.
+Tiene cuatro tarjetas con estadísticas, una gráfica del crecimiento de usuarios de 2023 y 2024, y otra con los ingresos de 2024. Las cantidades son datos de ejemplo.
 
 ## Tecnologías
 
-- HTML5
-- Tailwind CSS, cargado desde CDN
-- Chart.js, cargado desde CDN
+- HTML
+- Tailwind CSS
+- Chart.js
 
-El proyecto no usa TypeScript ni requiere instalación de dependencias. Los valores que aparecen en las tarjetas y las gráficas son datos de ejemplo definidos en `index.html`.
-
-## Cómo abrirlo
-
-Abre `index.html` en un navegador con conexión a internet para cargar Tailwind CSS y Chart.js desde sus CDN.
-
-## Archivo principal
-
-- `index.html`: estructura del dashboard, estilos de Tailwind y configuración de las gráficas.
+Para verlo, abre `index.html` en tu navegador.
